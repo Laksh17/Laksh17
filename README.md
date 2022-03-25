@@ -2,4 +2,4 @@
 
 => Currently completing my Undergraduate Course in Karnataka,India.
 
-=> Skilled in CSS, SAS, JS, Python and DJango
+=> Skilled in ML, DL, CSS, SAS, JS, Python and DJango
